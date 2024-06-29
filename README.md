@@ -5,10 +5,15 @@ To enhance user experience and reduce subscriber churn, it is crucial for Netfli
 
 ## Table of Contents
 1.Problem Statement
+
 2.Objective
+
 3.Dataset
+
 4.Data Pipeline
+
 5.Conclusion
+
 
 ## Problem Statement
 The aim of this project is to analyze the Netflix library of movies and TV shows, which was obtained from the third-party search engine Flixable, and group them into meaningful clusters. This initiative is designed to enhance user experience and minimize subscriber churn for Netflix, which had over 220 million subscribers as of Q2 2022. The dataset, encompassing movies and TV shows as of 2019, will be examined to uncover new insights and trends within the rapidly evolving streaming entertainment industry.
